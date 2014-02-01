@@ -1,7 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
- * Nico Penaredondo HUEHUEHEUHUEH H4XOR
+
  * About Drupal
  * Configuration and features
  * Installation profiles
